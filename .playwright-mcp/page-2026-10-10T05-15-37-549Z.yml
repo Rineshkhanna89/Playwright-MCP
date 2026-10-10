@@ -1,0 +1,16 @@
+- generic [active] [ref=f5e1]:
+  - generic [ref=f5e8]:
+    - heading "Leaftaps Login" [level=2] [ref=f5e9]
+    - generic [ref=f5e10]:
+      - paragraph [ref=f5e11]: "The Following Errors Occurred:"
+      - paragraph [ref=f5e12]: password was empty reenter
+    - generic [ref=f5e13]:
+      - paragraph [ref=f5e14]:
+        - generic [ref=f5e15]: Username
+        - textbox "Username" [ref=f5e16]
+      - paragraph [ref=f5e17]:
+        - generic [ref=f5e18]: Password
+        - textbox "Password" [ref=f5e19]
+      - paragraph [ref=f5e20]:
+        - button "Login" [ref=f5e21]
+  - generic [ref=f5e22]: Welcome to Leaftaps Application - TestLeaf environment for automation engineering learning.

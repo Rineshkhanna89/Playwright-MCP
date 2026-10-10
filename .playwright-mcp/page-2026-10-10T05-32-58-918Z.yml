@@ -1,0 +1,10 @@
+- generic [active] [ref=f2e1]:
+  - generic [ref=f2e8]:
+    - heading "Welcome Demo Sales Manager" [level=2] [ref=f2e9]
+    - generic [ref=f2e10]:
+      - link [ref=f2e11] [cursor=pointer]:
+        - /url: /crmsfa/control/main?externalLoginKey=EL529544149642
+      - link "CRM/SFA" [ref=f2e14] [cursor=pointer]:
+        - /url: /crmsfa/control/main?externalLoginKey=EL529544149642
+    - button "Logout" [ref=f2e16]
+  - generic [ref=f2e17]: Welcome to Leaftaps Application - TestLeaf environment for automation engineering learning.

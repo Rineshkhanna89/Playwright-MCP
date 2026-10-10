@@ -1,0 +1,13 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e8]:
+    - heading "Leaftaps Login" [level=2] [ref=e9]
+    - generic [ref=e10]:
+      - paragraph [ref=e11]:
+        - generic [ref=e12]: Username
+        - textbox "Username" [ref=e13]
+      - paragraph [ref=e14]:
+        - generic [ref=e15]: Password
+        - textbox "Password" [ref=e16]
+      - paragraph [ref=e17]:
+        - button "Login" [ref=e18]
+  - generic [ref=e19]: Welcome to Leaftaps Application - TestLeaf environment for automation engineering learning.

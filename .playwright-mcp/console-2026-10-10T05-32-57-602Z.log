@@ -1,0 +1,2 @@
+[   51604ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://leaftaps.com/opentaps/control/logout:0
+[   81026ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://leaftaps.com/opentaps/control/login:0
